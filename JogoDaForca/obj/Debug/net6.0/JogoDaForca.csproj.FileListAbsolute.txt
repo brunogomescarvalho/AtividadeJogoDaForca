@@ -1,0 +1,15 @@
+C:\AP\Modulo_1\09 - JogoDaForca\JogoDaForca\bin\Debug\net6.0\JogoDaForca.exe
+C:\AP\Modulo_1\09 - JogoDaForca\JogoDaForca\bin\Debug\net6.0\JogoDaForca.deps.json
+C:\AP\Modulo_1\09 - JogoDaForca\JogoDaForca\bin\Debug\net6.0\JogoDaForca.runtimeconfig.json
+C:\AP\Modulo_1\09 - JogoDaForca\JogoDaForca\bin\Debug\net6.0\JogoDaForca.dll
+C:\AP\Modulo_1\09 - JogoDaForca\JogoDaForca\bin\Debug\net6.0\JogoDaForca.pdb
+C:\AP\Modulo_1\09 - JogoDaForca\JogoDaForca\obj\Debug\net6.0\JogoDaForca.csproj.AssemblyReference.cache
+C:\AP\Modulo_1\09 - JogoDaForca\JogoDaForca\obj\Debug\net6.0\JogoDaForca.GeneratedMSBuildEditorConfig.editorconfig
+C:\AP\Modulo_1\09 - JogoDaForca\JogoDaForca\obj\Debug\net6.0\JogoDaForca.AssemblyInfoInputs.cache
+C:\AP\Modulo_1\09 - JogoDaForca\JogoDaForca\obj\Debug\net6.0\JogoDaForca.AssemblyInfo.cs
+C:\AP\Modulo_1\09 - JogoDaForca\JogoDaForca\obj\Debug\net6.0\JogoDaForca.csproj.CoreCompileInputs.cache
+C:\AP\Modulo_1\09 - JogoDaForca\JogoDaForca\obj\Debug\net6.0\JogoDaForca.dll
+C:\AP\Modulo_1\09 - JogoDaForca\JogoDaForca\obj\Debug\net6.0\refint\JogoDaForca.dll
+C:\AP\Modulo_1\09 - JogoDaForca\JogoDaForca\obj\Debug\net6.0\JogoDaForca.pdb
+C:\AP\Modulo_1\09 - JogoDaForca\JogoDaForca\obj\Debug\net6.0\JogoDaForca.genruntimeconfig.cache
+C:\AP\Modulo_1\09 - JogoDaForca\JogoDaForca\obj\Debug\net6.0\ref\JogoDaForca.dll
